@@ -7,6 +7,9 @@ Die Lektionen sind für **selbstlernende Kinder ab etwa 10 Jahren** ohne
 Vorkenntnisse gedacht. Jede Lektion dauert 30–60 Minuten, führt genau ein neues
 Konzept ein und endet mit einem kleinen Programm, das direkt auf dem mBot läuft.
 
-👉 **Starte hier: [lektionen/README.md](lektionen/README.md)**
+Es gibt zwei Lernpfade mit denselben fünf Grundideen:
 
-Und richte zuerst alles ein: [lektionen/00-vorbereitung.md](lektionen/00-vorbereitung.md).
+- 🤖 **Mit dem mBot-Roboter:** [lektionen-mbot/README.md](lektionen-mbot/README.md)
+  (Einrichtung: [lektionen-mbot/00-vorbereitung.md](lektionen-mbot/00-vorbereitung.md))
+- 🐱 **Ohne Roboter, mit Figuren auf dem Bildschirm:** [lektionen-sprites/README.md](lektionen-sprites/README.md)
+  (Einrichtung: [lektionen-sprites/00-vorbereitung.md](lektionen-sprites/00-vorbereitung.md))

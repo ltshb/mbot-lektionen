@@ -35,6 +35,11 @@ etwas Cooles.
 2. **Lies langsam und mach jeden Schritt mit.** Nicht nur lesen, sondern selbst
    die Blöcke zusammenstecken. So bleibt es im Kopf.
 
+## Kein mBot zur Hand?
+
+Die gleichen Ideen lernst du auch ohne Roboter, mit einer Figur auf dem
+Bildschirm: **[Figuren-Lektionen](../lektionen-sprites/README.md)**.
+
 Los geht's – viel Spaß! 🚀
 
 ## Weitere deutschsprachige Quellen

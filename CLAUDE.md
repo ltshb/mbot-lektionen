@@ -39,10 +39,13 @@ Broadcasts, eigene Blöcke (Funktionen), Zustände. Full mastery needs more than
 ## Repository structure
 
 ```
-lektionen/
+lektionen-mbot/          Lessons for the physical mBot robot
   README.md              Lernpfad / index of all lessons
   00-vorbereitung.md     One-time setup (referenced by every lesson, keeps them short)
   lektion-01-*.md ...     One file per lesson
+lektionen-sprites/       Parallel track without hardware: mBlock sprites (Figuren) on the stage
+  (same layout)          Same 5-concept progression; "wenn grüne Flagge angeklickt" instead of
+                         "wenn mBot startet", Fühlen blocks instead of mBot sensors
 beispiele/               Optional loadable .mblock example files (see below)
 ```
 

@@ -36,3 +36,15 @@ etwas Cooles.
    die Blöcke zusammenstecken. So bleibt es im Kopf.
 
 Los geht's – viel Spaß! 🚀
+
+## Weitere deutschsprachige Quellen
+
+Hier findest du noch mehr deutschsprachige Seiten rund um den mBot:
+
+| Quelle | Was du dort findest |
+|--------|---------------------|
+| [Hopp Foundation – Unterrichtsmaterial](https://www.hopp-foundation.de/unterrichtsmaterial/zum-download/robotik-mit-dem-mbot/) | Kostenlose Unterrichtsmaterialien für Schulen |
+| [Make Magazin (heise)](https://www.heise.de/make/artikel/mBot-Roboter-Bausatz-zum-Programmieren-lernen-4315590.html) | Artikel: mBot als Bausatz zum Programmieren lernen |
+| [LehrerWeb Wien – mBot](https://lehrerweb.wien/praxis/robotik-coding/roboter/mbot) | Österreichische Lehr- und Lernplattform mit mBot-Materialien |
+| [Christiani – mBot](https://www.christiani.de/schule/makeblock-education/mbot/) | Schulisches Angebot: mBot als Einstieg in Robotik und Coding |
+| [Stadt Hamm – MediaLab Robotik](https://www.hamm.de/medienzentrum/medialab-1/coding-und-robotik/mbots) | Kommunales Bildungsangebot mit mBot-Ressourcen |
